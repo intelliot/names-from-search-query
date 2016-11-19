@@ -9,5 +9,7 @@ This code echoes the names rather than storing them. The comments in `names.php`
 
 The number of "names" that will be found from a number of words `n` is given by:
 ```
-(n!)/ ((n-2)! 2!)
+(n!) / ((n-2)! 2!)
 ```
+
+Developed with PHP 7.0.11.
